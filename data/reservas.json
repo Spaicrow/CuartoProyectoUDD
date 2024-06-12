@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 1,
+    "hotel": "Hotel Sunshine",
+    "fecha": "2024-06-10",
+    "tipo_habitacion": "Doble",
+    "estado": "Confirmada",
+    "num_huespedes": 2
+  },
+  {
+    "id": 2,
+    "hotel": "Hotel Ocean View",
+    "fecha": "2024-06-15",
+    "tipo_habitacion": "Suite",
+    "estado": "Pendiente",
+    "num_huespedes": 3
+  }
+]
